@@ -1,16 +1,17 @@
-### Hi there 👋
+<a href="http://hdhuang.top/img/wechat.jpg">
+  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+</a>
+<br />
 
-<!--
-**DamomHd/DamomHd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" />
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Thank You-🙏🏼
+
+
+
+⭐️ From [DamomHd](https://github.com/DamomHd)
